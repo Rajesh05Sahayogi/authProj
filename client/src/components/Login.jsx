@@ -7,7 +7,7 @@ const Login = () => {
   return (
     <div>
         <div className="login-page">
-            <h1 style={{textAlign:"center"}}>Login</h1>
+            <h1 style={{textAlign:"center"}}>Login BY AUTH</h1>
             <div className="form">
                 <form className='login-form'>
                     <input type="text" name="" id="username" placeholder='username' />
